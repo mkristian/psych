@@ -65,6 +65,7 @@ lib/psych/visitors/to_ruby.rb
 lib/psych/visitors/visitor.rb
 lib/psych/visitors/yaml_tree.rb
 lib/psych/y.rb
+lib/psych_jars.rb
 test/psych/handlers/test_recorder.rb
 test/psych/helper.rb
 test/psych/json/test_stream.rb
